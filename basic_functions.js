@@ -1,8 +1,13 @@
 // make this a function where you console.log anything you want
-var speak
+var speak = function() {
+	console.log("hello world")
+}
 
 // make this a function that returns a value given to it
-var returnMe
+var returnMe = function(value) {
+	return value;
+}
+
 
 // make this a function that will turn the oven on and off.
 // It should take a string ("on" or "off") as an argument,
