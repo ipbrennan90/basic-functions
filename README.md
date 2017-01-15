@@ -2,8 +2,8 @@
 
 ### Pre-requisites
 
-> - You will need to have a console environment set up with node installed read more about that  [here][1],
-> - you will need atom, a basic text editor, you can install that [here][2].
+> - You will need to have a console environment set up with node installed read more about that  [here](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment),
+> - you will need atom, a basic text editor, you can install that [here](https://atom.io/).
 
 
 ### Getting Started
