@@ -4,8 +4,13 @@
   "description": "simple tests for basic functions",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --compilers js:babel-core/register \"test/**/*@(.js)\"",
-    "test:watch": "npm run test -- --watch"
+    "test:all": "mocha --compilers js:babel-core/register \"test/**/*@(.js)\"",
+		"test:speak": "mocha --compilers js:babel-core/register \"test/speak_test.js\"",
+		"test:returnme": "mocha --compilers js:babel-core/register \"test/return_me_test.js\"",
+		"test:oven": "mocha --compilers js:babel-core/register \"test/oven_test.js\"",
+		"test:double": "mocha --compilers js:babel-core/register \"test/double_recipe_test.js\"",
+    "test:watch": "npm run test -- --watch",
+		"playground": "node playground.js"
   },
   "repository": {
     "type": "git",

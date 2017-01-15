@@ -1,13 +1,23 @@
+// make this function console.log anything you want
+var helloWorld
+
+// make this function log out "I love functions" to the console
+var functionLove
+
 // make this a function where you console.log anything you want
-var speak = function() {
-	console.log("hello world")
-}
+var speak
+
+//this function should return a value with no parameters needed
+var favoriteKitchenTool
 
 // make this a function that returns a value given to it
-var returnMe = function(value) {
-	return value;
-}
+var returnMe
 
+// make a function that returns your favorite number
+var favoriteNumber
+
+// make a function that takes an order for the kitchen
+var orderUp
 
 // make this a function that will turn the oven on and off.
 // It should take a string ("on" or "off") as an argument,
