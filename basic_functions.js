@@ -16,7 +16,7 @@ var returnMe
 // make a function that returns your favorite number
 var favoriteNumber
 
-// make a function that takes an order for the kitchen
+// make a function that takes an order for the kitchen and returns it
 var orderUp
 
 // make this a function that will turn the oven on and off.
