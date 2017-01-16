@@ -1,3 +1,7 @@
+// 1. Define a function and invoke it
+// 2. Define a function with a return value
+// 3. Define a function with parameters and a return value
+
 // make this function console.log anything you want
 var helloWorld
 
@@ -21,7 +25,8 @@ var orderUp
 
 // make this a function that will turn the oven on and off.
 // It should take a string ("on" or "off") as an argument,
-// and return the string.
+// and returns a string telling us the oven is on or off
+// ex. 'oven is on'.
 var oven
 
 // create a function that takes any number of cups, doubles
