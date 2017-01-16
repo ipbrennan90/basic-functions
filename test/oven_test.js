@@ -11,11 +11,11 @@ describe('oven', () => {
 
 	it('should turn on', () => {
 		const ovenIs = oven('on');
-		expect(ovenIs).to.be.equal('on');
+		expect(ovenIs).to.be.equal('oven is on');
 	});
 
 	it('should turn off', () => {
 		const ovenIs = oven('off');
-		expect(ovenIs).to.be.equal('off');
+		expect(ovenIs).to.be.equal('oven is off');
 	});
 });
