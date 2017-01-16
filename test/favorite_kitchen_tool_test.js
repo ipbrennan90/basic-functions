@@ -4,9 +4,9 @@ import mocha from 'mocha';
 const expect = chai.expect;
 
 
-describe('returnMe', () => {
+describe('favoriteKitchenTool', () => {
 	it('should be a function', () => {
-		expect(favortieKitchenTool).to.be.a('function');
+		expect(favoriteKitchenTool).to.be.a('function');
 	});
 
 	it('should return something', () => {

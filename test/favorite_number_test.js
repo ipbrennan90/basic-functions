@@ -4,7 +4,7 @@ import mocha from 'mocha';
 const expect = chai.expect;
 
 
-describe('returnMe', () => {
+describe('favoriteNumber', () => {
 	it('should be a function', () => {
 		expect(favoriteNumber).to.be.a('function');
 	});

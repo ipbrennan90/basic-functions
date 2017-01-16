@@ -28,4 +28,25 @@ var oven
 // that number, and returns the doubled amount of cups
 var doubleRecipe
 
-export { speak, returnMe, oven, doubleRecipe}
+
+
+
+
+
+
+
+
+
+
+
+export {
+	helloWorld,
+	functionLove,
+	speak,
+	favoriteKitchenTool,
+	returnMe,
+	favoriteNumber,
+	orderUp,
+	oven,
+	doubleRecipe
+}

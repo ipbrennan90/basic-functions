@@ -11,6 +11,6 @@ describe('doubleRecipe', () => {
 	it('should return double the amount of cups given to it', () => {
 		const cups = 2;
 		const doubleCups = doubleRecipe(cups);
-		expect(doubleCups).to.be.equal(cups * 2);
+		expect(doubleCups).to.be.equal(4);
 	});
 })
