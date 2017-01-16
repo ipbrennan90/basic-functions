@@ -7,10 +7,10 @@ var functionLove
 // make this a function where you console.log anything you want
 var speak
 
-//this function should return a value with no parameters needed
+//this function should return a value
 var favoriteKitchenTool
 
-// make this a function that returns a value given to it
+// make this a function that returns a value
 var returnMe
 
 // make a function that returns your favorite number
