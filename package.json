@@ -14,7 +14,7 @@
 		"test:orderup": "mocha --compilers js:babel-core/register \"test/order_up_test.js\"",
 		"test:oven": "mocha --compilers js:babel-core/register \"test/oven_test.js\"",
 		"test:double": "mocha --compilers js:babel-core/register \"test/double_recipe_test.js\"",
-    "test:watch": "npm run test -- --watch",
+    "test:watch": "npm run test:all -- --watch",
 		"playground": "node playground.js"
   },
   "repository": {
